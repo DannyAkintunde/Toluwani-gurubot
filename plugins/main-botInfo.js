@@ -56,7 +56,7 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *Danny*
+  *STÅR TRËK*
 
 ▢ GitHub :
   • https://github.com/DannyAkintunde/GURU-BOT/tree/main
